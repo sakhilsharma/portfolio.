@@ -515,26 +515,3 @@ h2{
         Color:rgb(103, 247, 230)
     }
 }
-@media (min-height:320px)
-    {
-       .intro{
-        height: 61%;
-       } 
-       .link{
-        display: none;
-        }
-        .potrait{
-            height: calc(347vh - 207vh);
-        }
-         .skills{
-            height: 136vh;
-         }
-         #about{
-            height: 357vh;
-         }
-         .about-me_2 {
-            position: relative;
-            top: 81px;
-            left: -259px;
-        }
-    }
